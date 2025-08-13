@@ -41,7 +41,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/syed-yaseen007/hyderabad-house-price-prediction.git
+git clone https://github.com/syed-yaseen007/house-price-prediction.git
 cd hyderabad-house-price-prediction
 Install dependencies:
 
@@ -107,7 +107,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/syed-yaseen007/hyderabad-house-price-prediction.git
+git clone https://github.com/syed-yaseen007/house-price-prediction.git
 cd hyderabad-house-price-prediction
 Install dependencies:
 
